@@ -62,6 +62,33 @@ return [
 ];
 
 ```
+## Screenshots
+
+###### Login:
+
+![Login](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Auth/1.png)
+
+###### Register:
+
+![Register](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Auth/2.png)
+
+###### Register Success:
+
+![Register Success](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Auth/3.png)
+
+###### Confirmation Email:
+
+![Confirmation Email](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Auth/4.png)
+
+###### Password Reset:
+
+![Password Reset](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Auth/5.png)
+
+###### New Password Confirmation Email:
+
+![New Password Confirmation Email](https://github.com/IftekherSunny/screenshot/blob/master/Laravel-Auth/6.png)
+
+
 
 ## License
 
