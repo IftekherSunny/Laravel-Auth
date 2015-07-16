@@ -57,7 +57,7 @@
                                 </div>
 
                                 <div class="col-xs-6">
-                                    <button type="submit" class="btn btn-success pull-right"><i class="fa fa-sign-in"></i> Login</button>
+                                    <button type="submit" class="btn btn-primary pull-right"><i class="fa fa-sign-in"></i> Login</button>
                                 </div>
                             </div>
                         </div>

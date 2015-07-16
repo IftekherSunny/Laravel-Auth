@@ -10337,14 +10337,14 @@ body {
 }
 
 .user-login strong {
-    color: #398439;
+    color: #2e6da4;
     /* #094B83 #2e6da4  */
     font-size: 18px;
     opacity: 0.90;
 }
 
 .user-login .form-control:focus {
-    border-color: #5cb85c;
+    border-color: #66afe9;
     /* 66afe9 */
     outline: 0;
     box-shadow: none;
