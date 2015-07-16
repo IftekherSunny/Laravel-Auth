@@ -1,5 +1,5 @@
 {
-    "name": "sun/auth",
+    "name": "sun/laravel-auth",
     "description": "The Sun Auth package helps you to protect your application from Unauthorized user.",
     "keywords": ["laravel", "auth", "laravel auth", "registration", "auth package", "login", "sun", "flash"],
     "license": "MIT",
