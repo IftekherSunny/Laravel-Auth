@@ -1,0 +1,22 @@
+{
+    "name": "sun/auth",
+    "description": "The Sun Auth package helps you to protect your application from Unauthorized user.",
+    "keywords": ["laravel", "auth", "laravel auth", "registration", "auth package", "login", "sun", "flash"],
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Iftekher Sunny",
+        "email": "iftekhersunny@hotmail.com",
+        "homepage": "http://iftekhersunny.com"
+      }
+    ],
+	"require": {
+		 "php": ">=5.4.0",
+         "sun/laravel-flash": "~1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Sun\\": "src/"
+		}
+	}
+}
