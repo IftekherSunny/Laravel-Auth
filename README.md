@@ -38,11 +38,13 @@ add this 3 lines of code in your users migration file. Then, run
 php artisan migrate:refresh
 ```
 
-#### To Publish Sun Auth Assets
+Then publish Sun Auth's assets with 
 
 ```
- php artisan vendor:publish
+php artisan vendor:publish
 ```
+
+This command will publish all of the assets, views and config files.
 
 #### Changing Sun Auth Default Configuration
 
