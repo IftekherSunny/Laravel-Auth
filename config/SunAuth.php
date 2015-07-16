@@ -2,8 +2,8 @@
 
 return [
     'app'  => [
-        'name' => 'Sun Hospital Suite',
-        'url'   => 'http://localhost:800',
+        'name' => 'My Awesome App',
+        'url'   => 'http://localhost:8000',
         'favicon-url' => 'http://laravel.com/favicon.png'
     ],
     'user-model-namespace'  => 'App\User',
