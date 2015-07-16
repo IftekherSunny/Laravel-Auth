@@ -11,8 +11,8 @@
       }
     ],
 	"require": {
-		 "php": ">=5.4.0",
-         "sun/laravel-flash": "~1"
+		"php": ">=5.4.0",
+          "sun/laravel-flash": "~1"
 	},
 	"autoload": {
 		"psr-4": {
