@@ -1,5 +1,7 @@
 ## Sun Auth
 
+[![Total Downloads](https://poser.pugx.org/sun/laravel-auth/downloads)](https://packagist.org/packages/sun/laravel-auth) [![Latest Stable Version](https://poser.pugx.org/sun/laravel-auth/v/stable)](https://packagist.org/packages/sun/laravel-auth)  [![Latest Unstable Version](https://poser.pugx.org/sun/laravel-auth/v/unstable)](https://packagist.org/packages/sun/laravel-auth) [![License](https://poser.pugx.org/sun/laravel-auth/license)](https://packagist.org/packages/sun/laravel-auth)
+
 The Sun Auth package helps you to protect your application from Unauthorized user.
 
 ## Installation Process
